@@ -13,7 +13,7 @@ body{
 
 
 .bg{
-    background: url(.) no-repeat;
+    background: url(./programmer.jpg) no-repeat;
     background-size: cover;
     position: absolute;
     top: -30;
